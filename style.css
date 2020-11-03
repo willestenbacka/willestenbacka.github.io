@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: rgb(226, 226, 226);
+}
+#boll{
+    border: 1px solid black;
+}
+.full{
+    height: 95vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#canvas{
+    border: 3px black solid;
+}
+#score{
+    width: 5rem;
+    height: 5vh;
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.topbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
